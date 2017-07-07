@@ -6,13 +6,13 @@
 
 •	kubeless install
 
-•	kubectl get pods –n kubeless 
+•	kubectl get pods -n kubeless
 
-•	kubectl get deployment –n kubeless
+•	kubectl get deployment -n kubeless
 
-•	kubectl get statefulset –n kubeless
+•	kubectl get statefulset -n kubeless
 
-•	kubectl get thirdpartyresorces 
+•	kubectl get thirdpartyresource 
 
 •	kubeless function deploy get-recommendation --runtime python27 --handler recommendation.getrec --from-file recommendation.py --trigger-http
 
