@@ -2,7 +2,7 @@
 
 Video like of the Hands-on session  
 
-[![Watch the video](https://img.youtube.com/vi/pmA1NYqqpOs/0.jpg)](https://www.youtube.com/watch?v=pmA1NYqqpOs)
+[![Watch the video](https://img.youtube.com/vi/pmA1NYqqpOs/0.jpg)](https://youtu.be/EY5uyTQlNxo)
 
 •	Download Kubeless from https://github.com/kubeless/kubeless/releases
 
